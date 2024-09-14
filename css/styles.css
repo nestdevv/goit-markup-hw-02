@@ -78,20 +78,21 @@ h1 {
 }
 
 .page-footer {
-	background: #2e2f42;
-	color: white;
-}
-
-.page-footer {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 700;
 	font-size: 18px;
 	line-height: 1.17;
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
+	background: #2e2f42;
+	color: white;
 }
 
 .logo-footer {
+	color: #f4f4fd;
+}
+
+.logo-foot {
 	color: #4d5ae5;
 }
 
@@ -151,6 +152,7 @@ h1 {
 }
 
 .section-three {
+	background-color: #ffffff;
 	font-size: 36px;
 	line-height: 1.11;
 	letter-spacing: 0.02em;
@@ -158,6 +160,10 @@ h1 {
 
 .team-list {
 	background-color: #ffffff;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
 }
 
 .team-desc {
@@ -168,6 +174,15 @@ h1 {
 }
 
 .team-works {
+	font-weight: 500;
+	font-size: 36px;
+	line-height: 1.11;
+	letter-spacing: 0.02em;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+.port-list {
 	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
