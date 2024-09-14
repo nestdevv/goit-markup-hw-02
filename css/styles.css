@@ -123,7 +123,7 @@ h1 {
 }
 
 .team {
-	background-color: #ffffff;
+	background-color: #f4f4fd;
 	font-size: 36px;
 	line-height: 1.11;
 	text-align: center;
@@ -156,9 +156,11 @@ h1 {
 	line-height: 1.11;
 	letter-spacing: 0.02em;
 }
+.team-mem {
+	background-color: #ffffff;
+}
 
 .team-list {
-	background-color: #ffffff;
 	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
