@@ -42,6 +42,7 @@ a {
 
 button {
 	cursor: pointer;
+	font-size: 16px;
 	background: #4d5ae5;
 	color: white;
 	border: none;
@@ -50,8 +51,8 @@ button {
 	letter-spacing: 0.04em;
 }
 
-.oreder-button:hover,
-.oreder-button:focus {
+.order-button:hover,
+.order-button:focus {
 	background-color: #404bbf;
 }
 
@@ -66,9 +67,13 @@ h1 {
 
 .effective {
 	background-color: #2e2f42;
+	text-align: center;
+	letter-spacing: 0.02em;
+}
+
+.effective-solutions {
 	font-size: 56px;
 	line-height: 1.07;
-	text-align: center;
 	letter-spacing: 0.02em;
 }
 
@@ -77,14 +82,30 @@ h1 {
 	color: white;
 }
 
+.page-footer {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 1.17;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+}
+
 .logo-footer {
 	color: #4d5ae5;
+}
+
+.footer-desc {
+	line-height: 1.5;
+	color: #f4f4fd;
+	letter-spacing: 0.02em;
 }
 
 .description {
 	color: #434455;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
+	font-size: 16px;
 }
 
 .address-page {
@@ -119,5 +140,36 @@ h1 {
 	letter-spacing: 0.02em;
 	color: #2e2f42;
 	line-height: 1.5;
+	letter-spacing: 0.02em;
+}
+
+.section-two {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+}
+
+.section-three {
+	font-size: 36px;
+	line-height: 1.11;
+	letter-spacing: 0.02em;
+}
+
+.team-list {
+	background-color: #ffffff;
+}
+
+.team-desc {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+}
+
+.team-works {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
 	letter-spacing: 0.02em;
 }
