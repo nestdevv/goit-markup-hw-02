@@ -6,7 +6,7 @@ ol {
 body {
 	font-family: Roboto, sans-serif;
 	color: #434455;
-	background-color #FFFFFF;
+	background-color: #ffffff;
 }
 
 header .page-logo {
@@ -17,6 +17,12 @@ header .page-logo {
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
 	color: #4d5ae5;
+}
+
+.menu {
+	font-weight: 500;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
 }
 
 .logo-style {
@@ -59,4 +65,10 @@ h1 {
 
 .description {
 	color: #434455;
+}
+
+.address-nav {
+	font-style: normal;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
 }
