@@ -26,14 +26,10 @@ header .page-logo {
 	color: #2e2f42;
 }
 
-.menu-item:hover {
+.menu-link:hover,
+.menu-link:focus {
 	color: #404bbf;
 }
-
-.menu-item:focus {
-	color: #404bbf;
-}
-
 .logo-style {
 	color: #2e2f42;
 }
@@ -127,7 +123,7 @@ h1 {
 }
 
 .team {
-	background-color: #f4f4fd;
+	background-color: #ffffff;
 	font-size: 36px;
 	line-height: 1.11;
 	text-align: center;
