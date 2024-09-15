@@ -80,9 +80,7 @@ h1 {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 700;
 	font-size: 18px;
-	line-height: 1.17;
 	letter-spacing: 0.03em;
-	text-transform: uppercase;
 	background: #2e2f42;
 	color: white;
 }
@@ -93,19 +91,24 @@ h1 {
 
 .logo-foot {
 	color: #4d5ae5;
+	text-transform: uppercase;
 }
 
 .footer-desc {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
 	line-height: 1.5;
-	color: #f4f4fd;
 	letter-spacing: 0.02em;
+	color: #f4f4fd;
 }
 
 .description {
-	color: #434455;
+	font-weight: 400;
+	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
-	font-size: 16px;
+	color: #434455;
 }
 
 .address-page {
@@ -126,7 +129,6 @@ h1 {
 	background-color: #f4f4fd;
 	font-size: 36px;
 	line-height: 1.11;
-	text-align: center;
 	letter-spacing: 0.02em;
 	text-transform: capitalize;
 	color: #2e2f42;
