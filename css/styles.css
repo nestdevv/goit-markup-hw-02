@@ -92,6 +92,7 @@ h1 {
 .logo-foot {
 	color: #4d5ae5;
 	text-transform: uppercase;
+	line-height: 1.17;
 }
 
 .footer-desc {
@@ -156,6 +157,7 @@ h1 {
 	background-color: #ffffff;
 	font-size: 36px;
 	line-height: 1.11;
+	text-align: center;
 	letter-spacing: 0.02em;
 }
 .team-mem {
